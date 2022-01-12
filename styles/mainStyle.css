@@ -99,10 +99,6 @@ header {
   margin-right: 24px;
 }
 
-#navigation {
-  display: none;
-}
-
 /* Frame Styling */
 
 #presentation {
@@ -663,7 +659,6 @@ header {
 
   #menuButton {
     display: block;
-    margin-right: 0px;
   }
 
   #navigation {
@@ -980,10 +975,11 @@ header {
   justify-content: flex-end;
   align-items: flex-end;
 }
+ 
+#navigation{
+  display: none;
+} 
 
-  #navigation{
-    display: none;
-  }  
 @media screen and (min-width: 992px) and (max-width: 1100px) {
   #menuButton {
     display: none;
