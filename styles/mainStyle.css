@@ -1045,15 +1045,11 @@ header {
     display: flex;
     flex-direction: column;
     position: static;
-    margin-top: 0px;
-    margin-bottom: 0px;
     margin-right: 24px;
     margin-left: 24px;
   }
 
   .contact_form {
-    margin-top: 0px;
-    margin-bottom: 0px;
     margin-right: 24px;
     margin-left: 24px;
     width: 684px;
@@ -1119,6 +1115,5 @@ header {
     text-align: center;
     padding: 12px;
     margin-top: 12px;
-    margin-bottom: 0px;
   }
 }
