@@ -889,3 +889,13 @@ header {
     background-size: auto;
   }
 }
+
+.para_1 {
+  color: blueviolet !important;
+  font-size: 20px !important;
+}
+
+.header_3 { 
+  color: aqua !important;
+  font-weight: 500;
+}
