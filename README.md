@@ -2,7 +2,7 @@
 
 # Portfolio: mobile version
 
-> This is the Third Project and i have added a portfolio section showing the projects worked on. 
+> This was one of my code project i worked on and it is going to be reviewed by new. 
 
 
 This is a Portfolio that works as a presentation card for a Software developer, showcasing some important projects, personal and contact info, while keeping a fresh and elegant web design. 
