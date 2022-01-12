@@ -976,7 +976,7 @@ header {
   align-items: flex-end;
 }
  
-#navigation{
+#navigation {
   display: none;
 } 
 
@@ -984,7 +984,7 @@ header {
   #menuButton {
     display: none;
   }
-  #navigation{
+  #navigation {
     display: block;
   }
 
@@ -1046,12 +1046,12 @@ header {
     flex-direction: column;
     padding: 0px;
     position: static;
-    margin-top: calc(50%-256px/2 - 37px);
+    margin-top: calc(50% - 256px / 2 - 37px);
     margin: 0px 24px;
   }
   
   .contact_form {
-    margin-top: calc(50%-256px/2 - 37px);
+    margin-top: calc(50% - 256px / 2 - 37px);
     margin-top: 0px 24px;
     padding: 0px;
     width: 684px;
@@ -1064,7 +1064,6 @@ header {
   }
   
   .input1 {
-    width: 50%;
     margin-top: 0%;
     margin-bottom: 0%;
     border-bottom: 1px solid #dbd8d7;
@@ -1121,6 +1120,4 @@ header {
     margin-top: 12px;
     margin-bottom: 0px;
   }
-  
-}
-
+  }
