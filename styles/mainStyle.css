@@ -113,10 +113,10 @@ header {
 /* Frame Styling */
 
 #presentation {
-  background-color: rgba(28, 26, 25, 1);
+  background-color: rgb(48, 43, 40);
   background-image: url(../images/illustration.svg);
   background-repeat: no-repeat;
-  background-position: 100% 120%;
+  background-position: bottom right;
   background-size: auto;
   height: 100%;
 }
@@ -143,6 +143,7 @@ header {
   font-weight: 700;
   color: rgba(255, 245, 225, 1);
 }
+
 
 .container p {
   font-family: "Poppins", sans-serif;
