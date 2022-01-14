@@ -38,20 +38,20 @@
     </section>
     <section id="presentation" class="container">
         <div class="container content">
-            <div>
-                <h1>
-                    Hey There. <br> I’m Stephen <span class="dot"></span>
+            <div class="header_name">
+                <h1 class="header_text1" >
+                    Hey There. <br> I’m Stephen
                 </h1>
-                <h2>
+                <h2 class="header_sof">
                     I’m a Software Developer 
                 </h2>
-                <p>
+                <p class="parag_1">
                     I can help you build a product , feature or website Look through some of my work and experience! If
                     you like what you see and have a project you need coded, don’t hestiate to contact me.
                 </p>
             </div>
-            <ul class="container socialGroup">
-                <li class="social-media">
+            <ul class="container socialGroup ulsocial">
+                <li class="social-media social-media1">
                     <a rel="noopener noreferrer" id="githubButton" href="https://github.com/ssenkooto1" target="_blank"
                         aria-label="GitHub"><img src="icons/gitHub.svg" alt="Github.com Icon"></a>
                 </li>
@@ -77,6 +77,47 @@
     </section>
 
     
+    <section class="contact_section" id="contact">
+        <h2 class="contact_header">
+         <span class="cont_head_1">
+          I'm always interested in hearing about new projects, so if you'd like to
+          chat please get in touch.
+        </span> 
+        </h2>
+        <form
+          class="contact_form"
+          action="https://formspree.io/f/meqnejjb"
+          method="post"
+        >
+            <input
+            class="input1"
+            type="text"
+            placeholder="Full name"
+            maxlength="30"
+            name="Fullname"
+            required
+          /> 
+          <input
+            class="input2"
+            type="email"
+            placeholder="Email address"
+            name="Email"
+            required
+          />  
+          <textarea
+            class="input3"
+            name="Message"
+            maxlength="500"
+            rows="20"
+            cols="15"
+            placeholder="Enter text here"
+            required
+          ></textarea>
+          <button type="submit" class="contact_btn">Get in Touch</button>
+        </form>
+      </section>
+
+
     <footer class="contact">
         <ul class="container socialGroup">
             <li class="social-media">
