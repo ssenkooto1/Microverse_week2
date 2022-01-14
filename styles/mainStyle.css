@@ -984,16 +984,13 @@ header {
 }
 
 @media screen and (min-width: 992px) and (max-width: 1100px) {
-  
   /* Frame and toolbar styling */
   #presentation {
     justify-content: flex-start;
     background-image: url(../images/Illustration-header.svg);
-    background-position: right;
     background-size: 50%;
     background-position: 100% 0%;
   }
-
 
   #presentation .content {
     flex-direction: row-reverse;
