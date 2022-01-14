@@ -992,6 +992,10 @@ header {
     background-position: 100% 0%;
   }
 
+  p {
+    font-size: 16px;
+  }
+
   #presentation .content {
     flex-direction: row-reverse;
     width: 50vw;
@@ -1215,7 +1219,7 @@ header {
   #menuButton {
     display: none;
   }
-  
+
   .header_name {
     display: flex;
     flex-direction: column;
@@ -1226,10 +1230,6 @@ header {
   .header_sof {
     align-self: flex-start;
     font-size: 32px !important;
-  }
-
-  #navigation {
-    display: block;
   }
 
   .header_title {
@@ -1348,10 +1348,6 @@ header {
     margin-top: 24px;
     padding: 14px;
     height: 530px;
-  }
-
-  p {
-    font-size: 16px;
   }
 
   .parag_1 {
