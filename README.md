@@ -2,15 +2,15 @@
 
 # Portfolio: mobile version
 
-> This is the Third Project and i have added a portfolio section showing the projects worked on. 
+> This was Third Project and i have added a portfolio section showing the projects worked on. 
 
 
-This is a Portfolio that works as a presentation card for a Software developer, showcasing some important projects, personal and contact info, while keeping a fresh and elegant web design. 
+I will pratice code review on this project. 
 
 ## Built With
 
 - HTML/CSS
-- Visual Studio Code, Chrome Developer Tools
+- Visual Studio Code, Chrome Developer Tools 
 
 
 ## Getting Started
